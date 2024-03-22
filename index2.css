@@ -1,0 +1,405 @@
+.third-last{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    width: 100%;
+    margin: auto;
+    gap: 5%;
+    box-sizing: border-box;
+    /* flex-wrap: wrap; */
+}
+.third-left{
+    width: 37%;
+    padding: 14px;
+    border: 3px solid rgb(248, 215, 1);
+    color:rgb(125, 4, 4);
+    font-size: 23px;
+
+}
+.third-right{
+    width: 30%;
+    font-size: 23px;
+    color:rgb(117, 43, 43) ;
+
+}
+
+.third-left img{
+    width: 100%;
+    margin-top: 26px;
+
+}
+.third-inner{
+    padding: 40px;
+    line-height: 33px;
+    border: 2px solid rgb(210, 64, 88);
+    margin-bottom: 10%;
+border-radius:5px 40px;
+margin-top: 30px;
+}
+.link 
+{
+    color: gray;
+    text-decoration: none;
+}
+.last{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 5%;
+    background-color: rgb(227, 222, 222);
+
+padding: 7% 0;
+}
+.last ul{
+    list-style: none;
+    font-size: 20px;
+    color: rgb(84, 76, 76);
+}
+.last li{
+    margin-bottom: 20px;
+}
+.last i{
+    font-size: 26px;
+    color:rgb(125, 4, 4);
+
+
+}
+.faa i{
+    font-size: 40px;
+    color: rgb(30, 30, 69);
+
+}
+.last a{
+    text-decoration: none;
+    color: rgb(84, 76, 76);
+
+}
+.last a:hover{
+    color:rgb(125, 4, 4);
+  
+}
+.ul1 li{
+    margin-bottom: 18%;
+}
+.li1{
+    font-size: 25px;
+}
+.end
+{
+    padding: 2% 15%;
+    font-size: 20px;
+    color: rgb(99, 225, 99);
+    background-color:    rgb(125, 4, 4);
+}
+.end span{
+    color:white;
+    font-size: 25px;
+    margin-left: 30px;
+}
+.end a{
+    text-decoration: none;
+    color: rgb(110, 224, 110);
+}
+.end a:hover{
+    color: antiquewhite;
+    text-decoration: underline;
+}
+.second-last{
+    display: flex;
+    justify-content: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    gap: 5%;
+    width: 100%;
+    box-sizing: border-box;
+}
+.second-left{
+    border-right: 3px solid rgb(153, 14, 14);
+padding-right: 4%;
+    width: fit-content;
+    width: 20%;
+}
+.inner1{
+    padding: 30px 15px;
+    border-radius: 25px;
+    font-size: 20px;
+    line-height: 30px;
+    color: rgb(46, 41, 41);
+
+    margin-bottom: 20px;
+    margin-top: 10px;
+    background-color: aqua;
+}
+.second-left a{
+    font-size: 25px;
+
+}
+.second-right{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    gap: 15px;
+    width:50% ;
+}
+.second-right a{
+
+    font-size: 18px;
+    border-radius: 15px;
+    text-decoration: none;
+    width: 10%;
+    padding: 30px;
+    background-color: rgb(244, 248, 251);
+    height: fit-content;
+    color: rgb(57, 56, 56);
+}
+.second-right  i {
+    font-size: 40px;
+    margin-bottom: 10px;
+    color: rgb(9, 108, 108);
+}
+.second-right a img{
+    width: 35px;
+    margin-bottom: 10px;
+    margin-left: 15%;
+}
+.img3{
+    background-image: url(https://theindianschool.in/frontend/images/about-top.jpg);
+}
+.div2{
+    margin-bottom: 0;
+}
+
+.news2{
+    display: flex;
+    justify-content: space-around;
+}
+.news2 input{
+    padding :10px;
+    border: 2px solid skyblue;
+    font-size: 17px;
+}
+.news2 button{
+    padding: 10px;
+    margin-left: 10px;
+    background-color: rgb(145, 13, 13);
+    color: white;
+    font-size: 
+    17px;
+    border-radius: 5px;
+    border-color: rgb(145, 13, 13);
+}
+.press{
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid rgb(207, 203, 203);
+
+    padding-left: 10%;
+}
+.press img{
+    width: 15%;
+
+}
+.press .heading{
+    font-size: 25px;
+    font-weight: 400;
+    margin-left: 40px;
+}
+.img4{
+    background-image: url(https://theindianschool.in/uploads/posts/L-16972275207927-school-main2.jpg);
+
+}
+.img5{
+    background-image: url(https://theindianschool.in/uploads/posts/L-16972252079737-chairman-message-main.jpg);
+}
+
+.img6{
+    background-image: url(https://theindianschool.in/uploads/posts/L-16972253161054-vission-and-mission-main.jpg);
+}
+.chair
+{
+display: flex;
+padding: 2% 8%;
+gap: 7%;
+width: 100%;
+box-sizing: border-box;
+align-items: flex-start;
+justify-content: center;
+}
+.chairmen-left{
+    background-color: rgb(228, 150, 40);
+    color: white;
+    width: 25%;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    border-radius: 20px;
+    line-height: 50px;
+}
+.chairmen-left a{
+    text-decoration: none;
+    cursor: pointer;
+    color: aliceblue;
+    font-size: 22px;
+    margin:  80px 20px ;
+    font-weight: 900;
+}
+.chairmen-left a:hover{
+    color: rgb(113, 9, 9);
+
+}
+.chairmen-right{
+    width: 60%;
+}
+.chairmen-right p{
+    font-size: 20px;
+    line-height: 30px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.chairmen-right h1{
+    font-style: italic;
+
+}
+#heh{
+    color: rgb(123, 20, 20);
+
+    font-size: 32px;
+}
+.chairmen-right img{
+    width: 100%;
+    border-radius: 20px;
+}
+.chairmen-right h3{
+     font-size: 20px;
+     margin-top: 35px;
+
+}
+.img7{
+    background-image: url(https://theindianschool.in/uploads/posts/L-16972259411607-parents-main.jpg);
+}.img8{
+    background-image: url(https://theindianschool.in/uploads/posts/L-16972255898684-our-school-main.jpg);
+}
+.img9{
+    background-image: url(https://theindianschool.in/uploads/posts/L-16972671438488-classroom-main.jpg);
+}
+.img10{
+    background-image: url(https://theindianschool.in/uploads/posts/ff/17009944263515-teacher-role23.jpg);
+}
+.img11{
+
+    background-image: url(https://theindianschool.in/uploads/posts/L-16972692995223-technology-lab-banner.jpg);
+}
+.img12{
+    background-image:url(https://theindianschool.in/uploads/posts/L-16972705246418-the-library.jpg) ;
+}
+ .chairmen-right .short-img{
+    width: 16vw;
+    margin-left: 30%;
+    margin-top: 4%;
+    /* height: 20vh; */
+}
+.ri h3{
+text-align: center;}
+.inner-alumni{
+    width: 100%;
+    display: flex;
+    gap: 50px;
+    margin: auto;
+    padding-bottom: 50px;
+    padding-top: 30px;
+    align-items: center ;
+    border-bottom: 2px solid rgb(180, 178, 178);
+
+}
+.inner-alumni img{
+    width: 50%;
+    height: 40vh;
+}
+.ri1{
+    margin-right: 5%;
+}
+.ri1 p{
+    font-size: 22px;
+} 
+.chairmen-right h3{
+    text-align: center;
+}
+.photo{
+    padding: 20px;
+    border-radius: 20px;
+    font-size: 22px;
+    background-color: rgb(37, 241, 244);
+    border: 5px double rgb(37, 241, 244) ;
+    cursor: pointer;
+    position: fixed;
+    bottom: 30px;
+    right: 20px;
+}
+.photo:hover{
+    background-color: blueviolet;
+}
+.photo a:hover{
+    color: white;
+}
+.photo a{
+    text-decoration: none;
+    color: red;
+}
+
+
+@media screen and (max-width:720px)
+{
+    .third-last{
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+    .third-left{
+        width: 70%;
+        margin: auto;
+    }
+    .third-right{
+        width: 80%;
+
+        margin: auto;
+    }
+    .second-last{
+        flex-wrap: wrap;flex-direction: column;
+        /* margin-left: 10%; */
+        margin: auto;
+        padding-left: 5%;
+    }
+    .second-left{
+        width: 70%;
+    }
+    .second-right{
+        width: 90%;
+        margin-right: 0;
+    }
+    .last{
+        flex-direction: column;
+
+        padding-left: 10%;
+    }
+    .last ul{
+        padding-top: 15%;
+    }
+    .mid-img{
+        padding-left: 10%;
+    }
+    .chair{
+flex-wrap: wrap;
+flex-direction: column;
+    }
+    .chairmen-left{
+        width: 95%;
+    }
+    .chairmen-right{
+        width: 95%;
+    }
+    .inner-alumni{
+        flex-wrap: wrap;
+    }
+    .inner-alumni img{
+        width: 70%;
+        margin: auto;
+    }
+}

@@ -1,0 +1,10 @@
+@media only screen  and (max-width:460){
+    .uppr{
+        background-color: green;
+    }
+    .logo{
+        display:none
+    }
+
+    
+}
